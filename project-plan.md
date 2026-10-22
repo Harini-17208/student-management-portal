@@ -46,3 +46,15 @@ For an individual project, the student may perform all three roles.
 
 ## 6. Technologies Used
 HTML5, CSS3, Git, GitHub, and Agile Scrum.
+
+## 7. Version Control Workflow
+
+The project uses Git and GitHub to track changes.
+
+1. Create a feature branch for new changes.
+2. Modify project files on the feature branch.
+3. Commit changes with meaningful messages.
+4. Create a pull request to review the changes.
+5. Merge the approved changes into the main branch.
+
+This workflow helps maintain project history and organize development.
